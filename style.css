@@ -1,0 +1,33 @@
+*{
+    font-family: 'Itim', 'cursive';
+}
+
+body {background-color: #C9E2EF;}
+
+.inf-content{
+    border:1px solid #DDDDDD;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:10px;
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
+}			 
+
+#bg1{
+    background-color: 	#282A35;
+}
+
+#bg2{
+    background-color: 	#D9EEE1;
+}
+
+#bg3{
+    background-color: 	#FFF4A3;
+}
+
+#bg4{
+    background-color: 	#F3ECEA;
+}
+
+#bg5{
+    background-color: 	#F0FFFF;
+}
